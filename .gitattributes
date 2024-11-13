@@ -1,0 +1,56 @@
+# # Persatuan ##
+
+* .cs  diff = teks csharp 
+* .teks cginc 
+* .teks  shader
+
+* .mat  gabungan = unityyamlmerge  eol = lf
+* .anim  gabungan = unityyamlmerge  eol = lf
+* .unity  gabungan = unityyamlmerge  eol = lf
+* .prefab  gabungan = unityyamlmerge  eol = lf
+* .physicsMaterial2D  gabungan = unityyamlmerge  eol = lf
+* .physicMaterial  gabungan = unityyamlmerge  eol = lf
+* .gabungan aset  = unityyamlmerge eol =  lf
+* .meta  merge = unityyamlmerge  eol = lf
+* .penggabungan  pengontrol = unityyamlmerge  eol = lf
+
+
+# # git-lfs ##
+
+# Gambar
+* .jpg  filter = lfs  diff = lfs  merge = lfs  - teks
+* .jpeg  filter = lfs  diff = lfs  merge = lfs  - teks
+* .png  filter = lfs  diff = lfs  merge = lfs  - teks
+* .gif  filter = lfs  diff = lfs  merge = lfs  - teks
+* .psd  filter = lfs  diff = lfs  merge = lfs  - teks
+* .ai  filter = lfs  diff = lfs  merge = lfs  - teks
+* .tif  filter = lfs  diff = lfs  merge = lfs  - teks
+
+# Suara
+* .mp3  filter = lfs  diff = lfs  merge = lfs  - teks
+* .wav  filter = lfs  diff = lfs  merge = lfs  - teks
+* .ogg  filter = lfs  diff = lfs  merge = lfs  - teks
+
+# Video
+* .mp4  filter = lfs  diff = lfs  merge = lfs  - teks
+* .mov  filter = lfs  diff = lfs  merge = lfs  - teks
+
+# Objek 3D
+* .Filter  FBX = lfs  diff = lfs  merge = lfs  - teks
+* .fbx  filter = lfs  diff = lfs  merge = lfs  - teks
+* .blend  filter = lfs  diff = lfs  merge = lfs  - teks
+* .obj  filter = lfs  diff = lfs  merge = lfs  - teks
+
+# DLL
+* .a  filter = lfs  diff = lfs  merge = lfs  - teks
+* .exr  filter = lfs  diff = lfs  merge = lfs  - teks
+* .tga  filter = lfs  diff = lfs  merge = lfs  - teks
+* .pdf  filter = lfs  diff = lfs  merge = lfs  - teks
+* .zip  filter = lfs  diff = lfs  merge = lfs  - teks
+* .dll  filter = lfs  diff = lfs  merge = lfs  - teks
+* .unitypackage  filter = lfs  diff = lfs  merge = lfs  - teks
+* .aif  filter = lfs  diff = lfs  merge = lfs  - teks
+* .ttf  filter = lfs  diff = lfs  merge = lfs  - teks
+* .rns  filter = lfs  diff = lfs  merge = lfs  - teks
+* .alasan  filter = lfs  diff = lfs  merge = lfs  - teks
+* .lxo  filter = lfs  diff = lfs  merge = lfs  - teks
